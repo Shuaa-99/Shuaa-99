@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋,
 
-<div align ="center"> <h3 class="bold">Hello, This is Shuaa Github</h3> 
+<div align ="center"> <h3 class="bold"> This is Shuaa Github</h3> 
 </div> <br>
 <div align ="center" style="margin-top: 10px;"> 
  <a href="https://hits.seeyoufarm.com"> 
