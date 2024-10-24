@@ -16,19 +16,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.pngwing.com/en/search?q=xcode" alt="xcode" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" alt="xcode" width="40" height="40"/> 
   </a> 
   <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.flaticon.com/free-icon/swift_4008395" alt="swift" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   </a> 
   <a href="https://developer.apple.com/testflight/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.macosicongallery.com/icons/testflight-2023-05-19/" alt="testflight" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/TestFlight_icon.png" alt="testflight" width="40" height="40"/> 
   </a>
   <a href="https://developer.apple.com/app-store/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.pngwing.com/en/search?q=app+Store" alt="app-store" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/App_Store_Icon.png" alt="app-store" width="40" height="40"/> 
   </a>
   <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer"> 
-    <img src="https://www.macosicongallery.com/icons/core-data-lab-2022-07-28/" alt="core-data" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Coredata-logo.png" alt="core-data" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
