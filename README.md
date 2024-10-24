@@ -25,7 +25,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/TestFlight_icon.png" alt="testflight" width="40" height="40"/> 
   </a>
   <a href="https://developer.apple.com/app-store/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/App_Store_Icon.png" alt="app-store" width="40" height="40"/> 
+    <img src="https://www.flaticon.com/svg/static/icons/svg/831/831276.svg" alt="app-store" width="40" height="40"/> 
   </a>
   <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Coredata-logo.png" alt="core-data" width="40" height="40"/> 
