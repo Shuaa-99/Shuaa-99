@@ -19,7 +19,7 @@
     <img src="https://www.pngwing.com/en/search?q=xcode" alt="xcode" width="40" height="40"/> 
   </a> 
   <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.flaticon.com/free-icon/swift_5968371" alt="swift" width="40" height="40"/> 
+    <img src="https://www.flaticon.com/free-icon/swift_4008395" alt="swift" width="40" height="40"/> 
   </a> 
   <a href="https://developer.apple.com/testflight/" target="_blank" rel="noreferrer"> 
     <img src="https://www.macosicongallery.com/icons/testflight-2023-05-19/" alt="testflight" width="40" height="40"/> 
