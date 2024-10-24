@@ -7,7 +7,7 @@
   <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShuaa-99&count_bg=%231B96F5&title_bg=%23555555&icon=swift.svg&icon_color=%23E97A22&title=hits&edge_flat=false"/> </a> </div>
   <br> <div align="center" style="margin-top: 10px;"> <a href="https://github.com/Shuaa-99"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaAli-a&layout=compact&show_icons=true&theme=dracula" /> </a> </div>
 
-  <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Xcode_Icon.png" alt="xcode" width="40" height="40"/> 
