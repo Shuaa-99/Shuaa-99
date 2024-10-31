@@ -47,10 +47,6 @@
 
 <h1 align="left"><u>Github stats</u></h1>
 
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/shuaa-99/shuaa-99/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Shuaa" />
-</p>
-
 
 <!-- Add your GitHub stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuaa-99&show_icons=true&locale=en&layout=compact" alt="shuaa-99" /></p>
