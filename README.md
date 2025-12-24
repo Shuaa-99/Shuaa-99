@@ -4,7 +4,8 @@
 </div> <br>
 <div align ="center" style="margin-top: 10px;"> 
  <a href="https://hits.seeyoufarm.com"> 
-  <br> <div align="center" style="margin-top: 10px;"> <a href="https://github.com/Shuaa-99"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaAli-a&layout=compact&show_icons=true&theme=dracula" /> </a> </div>
+  <br> <div align="center" style="margin-top: 10px;"> <a href="https://github.com/Shuaa-99"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuaa-99
+&layout=compact&show_icons=true&theme=dracula" /> </a> </div>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
