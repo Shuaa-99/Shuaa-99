@@ -1,32 +1,55 @@
+# Hi, I'm Shuaa 👋
 
-### Hi there 👋,
+Software Engineer passionate about building scalable applications, REST APIs, system integrations, and AI-powered solutions.
 
-<div align="center">
-  <h1>This is Shuaa Github</h1>
-</div>
+## Tech Stack
 
-<br />
+### Languages
 
-### Languages:
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| <a href="https://developer.apple.com/swiftui/"><img src="https://cdn-icons-png.flaticon.com/512/732/732250.png" width="45" height="45" alt="SwiftUI"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JS"></a> | <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"></a> |
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45" />
+</p>
 
-<br />
+### Frameworks & Technologies
 
-### Tools:
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| <a href="https://developer.apple.com/xcode/"><img src="https://cdn.jim-nielsen.com/macos/1024/xcode-2020-11-11.png?rf=1024" width="45" height="45" alt="Xcode"></a> | <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"></a> | <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"></a> | <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="Postgres"></a> | <a href="https://developer.apple.com/app-store/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" width="45" height="45" alt="AppStore"></a> |
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
+</p>
 
-<br />
-<hr />
+- Spring Boot
+- REST APIs
+- Spring Security
+- Hibernate / JPA
+- AI Integration
+- Third-Party API Integration
 
-<h2 align="left">GitHub Stats 📊</h2>
+### Databases
 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" />
+</p>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuaa-99&theme=dracula" alt="shuaa-99 streak" />
-</div>
+### Tools
 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" />
+</p>
 
+## Current Focus
+
+- Backend Development with Java & Spring Boot
+- REST API Design
+- Database Design & Integration
+- AI-powered Applications
+- Full Stack Web Development
+
+## GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shuaa-99&theme=dracula)
